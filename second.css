@@ -1,0 +1,80 @@
+ /* General Styles */
+ body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #fff3e0; /* Light orange background */
+}
+
+/* Navigation Link */
+.nav-link {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #ffffff;
+    background-color: #ff5722;
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.nav-link:hover {
+    background-color: #e64a19;
+}
+
+/* Header Styling */
+header h1 {
+    border: 3px solid #ff5722; /* Orange border */
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Paragraph Styling */
+p {
+    background-color: #ffe0b2; /* Lighter orange background */
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+/* Image Styling */
+img {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+
+/* Figure Styling */
+figure {
+    margin: 20px auto;
+    text-align: center;
+}
+figure img {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+figcaption {
+    margin-top: 8px;
+    font-style: italic;
+}
+
+/* Progress Element Styling */
+progress {
+    display: block;
+    width: 80%;
+    margin: 20px auto;
+    height: 20px;
+    border-radius: 5px;
+}
+
+/* Main Content */
+main {
+    margin: 0 auto;
+    max-width: 800px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

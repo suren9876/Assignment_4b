@@ -1,0 +1,29 @@
+.color-example{
+    color:green;
+    background:  #d8d8de80;
+    border-radius: 2px;
+    border: 2px solid #656b71;
+
+}
+.header-example{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+}
+
+.list-example{
+    list-style-type: round;
+    color: #333333;
+}
+
+.text-example{
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.div-example{
+    background-color: #bfd2d4;
+    border:2px solid #2ab3a3;
+    border-radius:2px;
+}
